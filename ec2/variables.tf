@@ -1,7 +1,7 @@
 variable "ami" {
   type = string
 }
-variable "ec2type" {
+variable "instance" {
   type = string
 }
 
